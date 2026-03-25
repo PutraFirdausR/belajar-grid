@@ -1,36 +1,36 @@
-# 🔲 Belajar CSS Grid
+# 🔲 Learn CSS Grid
 
-Selamat datang di proyek **Belajar Grid**!  
-Repositori ini adalah tempat saya bereksperimen, belajar, dan mempraktikkan cara kerja sistem **CSS Grid Layout**. Proyek ini sangat cocok dijadikan referensi dasar untuk memahami bagaimana elemen-elemen web disusun menjadi baris dan kolom yang responsif dan fleksibel menggunakan CSS Grid.
+Welcome to the **Learn Grid** project!
+This repository is where I experiment, learn, and practice how the **CSS Grid Layout** system works. This project is a great foundational reference for understanding how web elements are arranged into responsive and flexible rows and columns using CSS Grid.
 
-## 🚀 Apa yang Dipelajari di Proyek Ini?
-- Penggunaan properti dasar grid seperti `grid-template-columns` dan `grid-template-rows`.
-- Mengatur jarak antar elemen menggunakan `gap`.
-- Menempatkan elemen spesifik di area tertentu dalam *grid*.
-- Membuat tata letak (*layout*) yang terstruktur tanpa perlu banyak *float* atau properti rumit lainnya.
+## 🚀 What Will You Learn in This Project?
+- Using basic grid properties like `grid-template-columns` and `grid-template-rows`.
+- Setting the spacing between elements using `gap`.
+- Placing specific elements in specific areas within the grid.
+- Creating structured layouts without the need for lots of floats or other complex properties.
 
-## 🛠️ Teknologi yang Digunakan
-- **HTML5** (File `index.html` untuk struktur kerangka elemen)
-- **CSS3** (File `style.css` tempat implementasi logika CSS Grid)
+## 🛠️ Technologies Used
+- **HTML5** (`index.html` file for the element framework structure)
+- **CSS3** (`style.css` file where the CSS Grid logic is implemented)
 
-## 📂 Struktur Folder
+## 📂 Folder Structure
 ```text
 belajar-grid/
-├── img/                # Direktori penyimpanan gambar atau aset visual
-├── index.html          # Halaman utama HTML
-├── style.css           # File CSS utama yang memuat styling Grid
-└── README.md           # Dokumentasi (file ini)
+├── img/ # Directory for storing images or visual assets
+├── index.html # Main HTML page
+├── style.css # Main CSS file containing Grid styling
+└── README.md # Documentation (this file)
 ```
 
-## 💻 Cara Menjalankan Secara Lokal
-Proyek ini tidak memerlukan instalasi library atau node modules. Cukup jalankan langsung dari browser kamu:
+## 💻 How to Run Locally
+This project does not require the installation of any libraries or node modules. Just run it directly from your browser:
 
-1. Clone repositori ini ke komputermu:
+1. Clone this repository to your computer:
 
 ```Bash
 git clone [https://github.com/PutraFirdausR/belajar-grid.git](https://github.com/PutraFirdausR/belajar-grid.git)
 ```
 
-2. Buka folder belajar-grid.
+2. Open the belajar-grid folder.
 
-3. Buka file index.html dengan cara double-click (akan otomatis terbuka di browser seperti Chrome/Firefox/Edge) atau gunakan ekstensi Live Server jika kamu memakai Visual Studio Code.
+3. Open the index.html file by double-clicking it (it will automatically open in a browser like Chrome/Firefox/Edge) or use the Live Server extension if you're using Visual Studio Code.
